@@ -1,2 +1,3 @@
 <?php 
-include(".\public\index.php");
+echo "test";
+// include(".\public\index.php");
